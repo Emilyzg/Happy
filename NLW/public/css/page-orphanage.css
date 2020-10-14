@@ -1,3 +1,4 @@
 #page-orphanage {
-    display:
+    display: flex;
+    min-width: 100vh;
 }
